@@ -1003,6 +1003,7 @@ import TheWelcome from './components/TheWelcome.vue'
   Maiores molestias quae molestiae optio labore similique tenetur aperiam, dolorum autem. Accusantium accusamus quisquam consequatur repellendus optio debitis. Quos, ipsam distinctio. Magnam iste at dolores eveniet. Impedit sed nemo deserunt!
   Fugiat, laboriosam! Obcaecati ullam iure a illum sapiente distinctio odio hic vero! Soluta doloremque velit non inventore totam debitis, ullam sed, fugit a deserunt, similique aspernatur eius nam natus. Officia.
   Esse impedit eos repellat, atque, accusantium harum aut veritatis temporibus dolorum, ad recusandae illum explicabo aspernatur. Sed tenetur officiis eaque tempore quae? Reprehenderit commodi placeat, itaque adipisci quia dignissimos eos.
+  <div><h1>Alguma coisa</h1></div>
 </template>
 
 <style scoped>
